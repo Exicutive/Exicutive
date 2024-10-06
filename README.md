@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Oluwadamilare 👋
 
-<!--
-**Exicutive/Exicutive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I recently graduated with a degree in **Computer Science** and have a passion for solving real-world problems through **Machine Learning**, **Data Science**, and **Deep Learning**. I am always eager to collaborate and learn more about the latest advancements in technology.
 
-Here are some ideas to get you started:
+- 🎓 **Graduated** with a **BSc in Computer Science**.
+- 🔭 I’m currently working on a **Lassa Fever predictive model for Nigeria**.
+- 🌱 I’m continuously learning and exploring new technologies, with a focus on **TensorFlow** and **Deep Learning** for health-related solutions.
+- 💡 I enjoy working on **open-source projects** and contributing to **AI** research.
+- 💬 Ask me anything related to **Machine Learning**, **Python**, **Data Science**, or tech in general!
+- 📫 Reach out at: `akinpeluoluwadamilare79@gmail.com`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills and Tools:
+- **Languages**: Python, Java, C++, JavaScript
+- **ML/DL Tools**: TensorFlow, Keras, scikit-learn, NumPy, Pandas
+- **Data Visualization**: Matplotlib, Seaborn
+- **Version Control**: Git, GitHub
+- **IDEs**: Jupyter, VS Code, PyCharm
