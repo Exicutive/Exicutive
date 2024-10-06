@@ -4,10 +4,15 @@
 I recently graduated with a degree in **Computer Science** and have a passion for solving real-world problems through **Machine Learning**, **Data Science**, and **Deep Learning**. I am always eager to collaborate and learn more about the latest advancements in technology.
 
 - 🎓 **Graduated** with a **BSc in Computer Science**.
-- 🔭 I’m currently working on a **Lassa Fever predictive model for Nigeria**.
+  
 - 🌱 I’m continuously learning and exploring new technologies, with a focus on **TensorFlow** and **Deep Learning** for health-related solutions.
+  
 - 💡 I enjoy working on **open-source projects** and contributing to **AI** research.
+  
+- ⚡ Fun fact: I use most of my time making reasearch, watching videos and learning new things.
+  
 - 💬 Ask me anything related to **Machine Learning**, **Python**, **Data Science**, or tech in general!
+  
 - 📫 Reach out at: `akinpeluoluwadamilare79@gmail.com`
 
 ## 🛠️ Skills and Tools:
